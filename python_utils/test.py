@@ -1,6 +1,3 @@
-from tkinter import Y
-
-
 def test():
     return True
 
